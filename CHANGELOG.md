@@ -1,11 +1,11 @@
 ---
 Title: Mon site Web
 Tags: Templates, DevOps
-Description: Mon CV "Slide Mode"
+Description: Mon CV **Slide Mode**
 ---
 
 <!-- Put the link to this slide here so people can follow -->
-slide: https://hackmd.io/p/template-Talk-slide
+slide: https://hackmd.io/@metalfrags/HJ4zB19aS
 
 ---
 
