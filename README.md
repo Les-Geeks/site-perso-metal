@@ -1,9 +1,23 @@
+<img src="img/LOGO_GEKKO_LES-INGENIEURS-DU-CLOUD_RVB-1_import.png" alt="Italian Trulli">
+
 ---
 Title: My Personal Website
 tags: Templates, DevOps
 description: Mon CV "Slide Mode".
 Authors: Laurent Marques
 ---
+
+<dl>
+  <dt>First Term</dt>
+  <dd>This is the definition of the first term.</dd>
+  <dt>Second Term</dt>
+  <dd>This is one definition of the second term. </dd>
+  <dd>This is another definition of the second term.</dd>
+</dl>
+
+```css=
+<strong> Mon site </strong>
+```
 
 # My Personal Website
 
