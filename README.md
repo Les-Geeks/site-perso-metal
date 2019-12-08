@@ -6,6 +6,8 @@ description: Mon CV "Slide Mode".
 Authors: Laurent Marques
 ---
 
+# My Personal Website
+
 <img src="img/LOGO_GEKKO_LES-INGENIEURS-DU-CLOUD_RVB-1_import.png" alt="Italian Trulli">
 
 <dl>
@@ -19,8 +21,6 @@ Authors: Laurent Marques
 ```css=
 <strong> Mon site </strong>
 ```
-
-# My Personal Website
 
 <!-- Put the link to this slide here so people can follow -->
 slide: https://hackmd.io/@metalfrags/S1BX7J5aH
