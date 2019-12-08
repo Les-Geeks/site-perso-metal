@@ -1,4 +1,3 @@
-<img src="img/LOGO_GEKKO_LES-INGENIEURS-DU-CLOUD_RVB-1_import.png" alt="Italian Trulli">
 
 ---
 Title: My Personal Website
@@ -6,6 +5,8 @@ tags: Templates, DevOps
 description: Mon CV "Slide Mode".
 Authors: Laurent Marques
 ---
+
+<img src="img/LOGO_GEKKO_LES-INGENIEURS-DU-CLOUD_RVB-1_import.png" alt="Italian Trulli">
 
 <dl>
   <dt>First Term</dt>
