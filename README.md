@@ -26,7 +26,8 @@ I from in France, i love technologies, informatique and computeur, programming..
 For my work i use more technologies.
 
 And you, how are you ?
-Je te propose d'apprendre a me connaître ci-dessous:8ball: 
+
+I suggest you get to know me below :8ball: 
 
 ---
 
