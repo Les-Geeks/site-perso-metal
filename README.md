@@ -11,21 +11,71 @@ slide: https://hackmd.io/@metalfrags/S1BX7J5aH
 
 ---
 
-(c) Template website Revision: 0.0.1
+(c) Marques Laurent
+
+Template website CV Revision: 0.0.1
 
 Please prepare laptop or smartphone to join this community!
 
 ---
 
 ## Who am I?
-Hi,
+Hi my name is laurent,
 
-I'am Laurent Marques, I love technologies, informatique and computeur.
-J'utilise plusieurs technologies au sein de mon travail et a titre personnel.
+I from in France, i love technologies, informatique and computeur, programming... and very best challenge.
+For my work i use more technologies.
 
-- Front-end developer, Solution Architecte, Ingénieur Cloud DevOps
-- VSCode, Linux, Mac Os, Emacs, Vim, HackMD  :heart: 
+---
+
+### My Background
+
+- Hardware computer Technician
+- Network Administrator
+- Front-end developper Junior, 
+- Solution Architecte 
+- Ingénieur Cloud DevOps
+
+---
+### Tools and OS i use :100: 
+- VSCode, Pycharm
+- Linux, Mac Os, Windows, 
+- Emacs, Vim, HackMD and AWS :heart: 
+
+---
+
+
+### Langage: 
+
+- Python3, Bash, MD, HTML, Css, yaml, json
+    - I love Github and Gitlab for versionning with  Hack MD for create best project :+1: 
 - I use tabs. :cat: 
+
+---
+
+### Actually Mission:
+- Gekko (Team Support Airbus)
+ >With Airbus SAS to create the best projects :+1:
+- Team support is the best !
+- Onboarding process
+
+---
+
+## Consulting
+
+### And Teachers DevOps for Gekko Academy
+
+---
+
+- Agiles methods, Scrum, Kanban (Jira Admin, Confluence, Trello) 
+    - Onboarding Process (Tools DevOps)
+- Team Leader
+    - curious, dynamic, best effort, 
+- Owner, Admin, Organisation Versionning (Github, Gitlab)
+- Best practice
+- Architecturing your application in the AWS Cloud
+- DevOps (CI/CD)
+- Ansible, Terraform
+- Artifactory 
 
 ---
 
