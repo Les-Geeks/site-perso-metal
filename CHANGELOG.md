@@ -9,14 +9,14 @@ slide: https://hackmd.io/@metalfrags/HJ4zB19aS
 
 ---
 
-# Version O.O.1 / 2019-08-12
+## Version O.O.1 / 2019-08-12
 
 ---
 
-## Changelog
+### Changelog
 
-- Template minimal Website add
-- Fix syntax code quality
-- Add Slide
+    -  Template minimal Website
+    -  Fix syntax code quality
+    -  Add Slide
 
 This site is actuel Demo.
