@@ -1,17 +1,17 @@
 ---
-title: Mon site Web
+Title: My Personal Website
 tags: Templates, DevOps
 description: Mon CV "Slide Mode".
+Authors: Laurent Marques
 ---
 
-# My Website
+# My Personal Website
 
 <!-- Put the link to this slide here so people can follow -->
 slide: https://hackmd.io/@metalfrags/S1BX7J5aH
 
 ---
 
-(c) Marques Laurent
 
 Template website CV Revision: 0.0.1
 
@@ -20,10 +20,13 @@ Please prepare laptop or smartphone to join this community!
 ---
 
 ## Who am I?
-Hi my name is laurent,
+Hi my name is Laurent,
 
 I from in France, i love technologies, informatique and computeur, programming... and very best challenge.
 For my work i use more technologies.
+
+And you, how are you ?
+Je te propose d'apprendre a me connaître ci-dessous:8ball: 
 
 ---
 
@@ -60,22 +63,28 @@ For my work i use more technologies.
 
 ---
 
-## Consulting
-
-### And Teachers DevOps for Gekko Academy
+### Consulting
+>And DevOps Teachers for Gekko Academy
 
 ---
 
+### Onboarding Process
 - Agiles methods, Scrum, Kanban (Jira Admin, Confluence, Trello) 
     - Onboarding Process (Tools DevOps)
 - Team Leader
     - curious, dynamic, best effort, 
 - Owner, Admin, Organisation Versionning (Github, Gitlab)
+- Mode Project
 - Best practice
+
+---
+
+### Deploy 
 - Architecturing your application in the AWS Cloud
 - DevOps (CI/CD)
-- Ansible, Terraform
+- Ansible, Terraform, Cloud formation
 - Artifactory 
+- Best practice
 
 ---
 
