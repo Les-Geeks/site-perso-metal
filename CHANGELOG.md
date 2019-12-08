@@ -9,9 +9,10 @@ description: Mon CV "Slide Mode".
 <!-- Put the link to this slide here so people can follow -->
 slide: https://hackmd.io/p/template-Talk-slide
 
-# O.O.1 / 2019-08-12
+# Version O.O.1 / 2019-08-12
 
 - Template minimal Website add 
 - Fix syntax code quality
+
 
 This site is actuel Demo.
