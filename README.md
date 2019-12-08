@@ -7,7 +7,7 @@ description: Mon CV "Slide Mode".
 # My Website
 
 <!-- Put the link to this slide here so people can follow -->
-slide: https://hackmd.io/p/template-Talk-slide
+slide: https://hackmd.io/@metalfrags/S1BX7J5aH
 
 ---
 
