@@ -1,3 +1,4 @@
+# My Personal Website
 
 ---
 Title: My Personal Website
@@ -6,17 +7,17 @@ description: Mon CV "Slide Mode".
 Authors: Laurent Marques
 ---
 
-# My Personal Website
-
+<center>
 <img src="img/LOGO_GEKKO_LES-INGENIEURS-DU-CLOUD_RVB-1_import.png" alt="Italian Trulli">
-
+</center>
 <dl>
-  <dt>First Term</dt>
-  <dd>This is the definition of the first term.</dd>
-  <dt>Second Term</dt>
-  <dd>This is one definition of the second term. </dd>
+  <dt>Consulting </dt>
+  <dd>Mentor</dd>
+  <dt>AWS</dt>
+  <dd>Certification AWS Solution Architect </dd>
   <dd>This is another definition of the second term.</dd>
 </dl>
+
 
 ```css=
 <strong> Mon site </strong>
