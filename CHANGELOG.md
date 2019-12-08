@@ -4,23 +4,27 @@ tags: Templates, DevOps
 description: Mon CV "Slide Mode".
 ---
 
-# Mon Titre
+# My Website
 
 <!-- Put the link to this slide here so people can follow -->
 slide: https://hackmd.io/p/template-Talk-slide
 
 ---
 
-We have a collaborative session
+(c) Template website Revision: 0.0.1
 
-please prepare laptop or smartphone to join!
+Please prepare laptop or smartphone to join this community!
 
 ---
 
 ## Who am I?
-I'am Laurent Marques, I love technologies, informatique and computeur
+Hi,
+
+I'am Laurent Marques, I love technologies, informatique and computeur.
+J'utilise plusieurs technologies au sein de mon travail et a titre personnel.
+
 - Front-end developer, Solution Architecte, Ingénieur Cloud DevOps
-- VSCode, Linux, Mac Os  :heart: 
+- VSCode, Linux, Mac Os, Emacs, Vim, HackMD  :heart: 
 - I use tabs. :cat: 
 
 ---
