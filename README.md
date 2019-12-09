@@ -8,7 +8,7 @@ Authors: Laurent Marques
 ---
 
 <center>
-<img src="images/LOGO_GEKKO_LES-INGENIEURS-DU-CLOUD_RVB-1_import.png" alt="Italian Trulli">
+<img src="img/LOGO_GEKKO_LES-INGENIEURS-DU-CLOUD_RVB-1_import.png" alt="Italian Trulli">
 </center>
 <dl>
   <dt>Consulting </dt>
